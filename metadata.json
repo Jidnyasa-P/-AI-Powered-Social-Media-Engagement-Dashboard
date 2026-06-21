@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Dashboard",
+  "description": "An AI-Powered Social Media Engagement Dashboard with sentiment analysis, content effectiveness scoring, and predictive campaign optimization insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
